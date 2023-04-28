@@ -4,3 +4,12 @@
     4 5 6
     7 8 9 10
  */
+
+/**
+ * Pattern5
+ */
+
+public class Pattern5 {
+
+    
+}
